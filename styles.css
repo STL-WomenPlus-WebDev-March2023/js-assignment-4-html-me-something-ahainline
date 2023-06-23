@@ -1,1 +1,17 @@
 /* Write your CSS here! */
+.row {
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    margin: 10px;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
