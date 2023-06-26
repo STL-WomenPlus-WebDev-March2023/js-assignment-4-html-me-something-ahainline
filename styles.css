@@ -29,6 +29,13 @@ h3 {
     font-size: 20pt;
 }
 
+footer {
+    margin: 0px;
+    padding: 0px;
+    font-size: 10pt;
+    text-align: center;
+}
+
 .row {
     display: flex;
     max-width: 100%;
